@@ -231,7 +231,7 @@ const amount = document.querySelector(".enter_amount input");
 
  }
 
-  let API_URL = `https://v6.exchangerate-api.com/v6/7882ad6420148aa9e7001eae/latest/${from_dropdown.value}`;
+  let API_URL = `https://v6.exchangerate-api.com/v6/76c8d8394db6958762517780/latest/${from_dropdown.value}`;
   
   fetch(API_URL).then(response =>  response.json().then(result => {
 
