@@ -1,0 +1,30 @@
+
+@import url('https://fonts.cdnfonts.com/css/marhey');
+                
+
+.slide_text p{
+
+    font-family: 'Marhey', sans-serif;
+    
+
+    margin-right: 100px;
+    margin-top: 300px;
+    margin-right: 100px;
+
+
+}
+
+.slide_text{
+
+  gap: 0;
+  margin-bottom: 100px;
+
+}
+.slide_text img{
+
+    width: 100px;
+    rotate: 75deg;
+    margin-top: 20px;
+    margin-left: 70px;
+   padding: 0;
+}
