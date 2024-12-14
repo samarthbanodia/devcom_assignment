@@ -5,7 +5,8 @@ Hey Devcom samarth here, this is my assignment for the developer role :)
 
 I used HTML, CSS and JS for this assignment which i majorly learned from a paid course and yt. I Have Not used any TailwindCSS or Bootstrap but i did use some ui components.
 
-     | Note: there might a slight chance that the script doesnt work because the free api qouta finished.
+     | Note: there might a slight chance that the script doesnt work because the free api qouta finished.;
+     | if thats the case then pls try putting 03d05eefe5c05bfd90b38114 in line 232 of script.js and line 207,224 of bonus_script.js
 ## Features
 
 - Used FlagsAPI for displaying country FlagsAPI
