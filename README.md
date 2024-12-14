@@ -44,6 +44,15 @@ Talking about the bonus questions Button , i customised the component i took fro
 
 I Majorly used the code from **index.html** and aligned stuff , also added a terminal to display the result (from uiverse.io)
 
+ - converter.css - for the main converter div center of main.html
+ - card.css - for scoial media buttons
+ - terminaleffect.css - for the terminal on main.html
+ - input_amount.css - for the input component of amount
+ - slider.css - for the accuracy slider
+ - slider_text.css - for the text beside the slider
+ - bonus_button.css - styling for the bonus questions button
+ - terminal_bonus.css - for the terminal on bonus.html
+ - Bonus_style.css - styyling the rest of page
 
 ## Lets get to the Backend
 
